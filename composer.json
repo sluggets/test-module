@@ -1,0 +1,21 @@
+{
+        "name": "sluggets/test-module",
+        "description": "Just a test module to utilize Composer",
+        "license": "MIT",
+        "type": "drupal-module",
+        "keywords": [
+                "learning yii",
+                "testing yii",
+                "learning"
+        ],
+        "authors": [
+                {
+                        "name": "Tim Longoria",
+                        "homepage": "http://timlongoria.com"
+                }
+        ],
+        "support": {
+                "source": "https://github.com/sluggets/test-module"
+        },
+        "homepage": "http://timlongoria.com"
+}
